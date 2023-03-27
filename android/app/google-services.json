@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319299711539",
+    "project_id": "car-repair-app-e8a55",
+    "storage_bucket": "car-repair-app-e8a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319299711539:android:bcdc872b4e624eab9a2946",
+        "android_client_info": {
+          "package_name": "com.example.car_repair_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319299711539-83t3sroggb1fb2ccsqe8djfr47621sn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfYW70E5rIG82Pi2BWpVYHzw33AhfvItM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319299711539-83t3sroggb1fb2ccsqe8djfr47621sn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
